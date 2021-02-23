@@ -7,13 +7,15 @@ After graduating with a B.S. in Marketing, I decided that I wanted to learn more
 
 ##### My Skills as a Developer
 <br/>
-*JavaScript
-*React
-*Node.js
-*RESTful APIs
-*Git
-*CSS (LESS, SASS)
+- JavaScript
+- React
+- Node.js
+- RESTful APIs
+- Git
+- CSS (LESS, SASS)
 
+##### Other Info
+<br/>
 - 🔭 I’m currently working on a Merchant Marketplace web application.
 - 🌱 I’m currently learning more in depth authentication.
 - Contact me here: daniel.j.hermansen@gmail.com
