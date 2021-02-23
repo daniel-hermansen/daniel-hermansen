@@ -6,7 +6,6 @@ Hi, I'm Daniel! I am a full-stack web developer continously working on improving
 After graduating with a B.S. in Marketing, I decided that I wanted to learn more technical skill and work on building products, which led me to web development. Apart from web development, I love building things and doing DIY renovation work. I have been learning different woodworking techniques and just finished building a farmhouse style desk that I currently use. 
 
 ##### My Skills as a Developer
-<br/>
 - JavaScript<br/>
 - React<br/>
 - Node.js<br/>
