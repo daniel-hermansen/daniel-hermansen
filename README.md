@@ -7,12 +7,12 @@ After graduating with a B.S. in Marketing, I decided that I wanted to learn more
 
 ##### My Skills as a Developer
 <br/>
-- JavaScript/
-- React/
-- Node.js/
-- RESTful APIs/
-- Git/
-- CSS (LESS, SASS)/
+- JavaScript<br/>
+- React<br/>
+- Node.js<br/>
+- RESTful APIs<br/>
+- Git<br/>
+- CSS (LESS, SASS)<br/>
 
 ##### Other Info
 <br/>
