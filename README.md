@@ -28,5 +28,4 @@ Apart from web development, I love building things and doing DIY renovation work
 
 ##### Other Info
 - Contact me here: daniel.j.hermansen@gmail.com
-- 😄 Pronouns: He/Him
 
